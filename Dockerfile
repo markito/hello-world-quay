@@ -1,3 +1,3 @@
 FROM fedora/rawhide
 
-echo "Hello World!"
+RUN echo "Hello World!"
