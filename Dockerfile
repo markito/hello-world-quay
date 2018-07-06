@@ -1,3 +1,3 @@
-FROM fedora/rawhide
+FROM fedora:latest
 
 RUN echo "Hello World!"
